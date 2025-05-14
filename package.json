@@ -1,0 +1,10 @@
+{
+  "name": "demo-monorepo",
+  "version": "0.0.1",
+  "description": "A demo monorepo containing two package directories, an app and a support module.",
+  "main": "index.js",
+  "dependencies": {
+    "demo-app": "file:app",
+    "demo-support": "file:support"
+  }
+}
