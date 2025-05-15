@@ -2,5 +2,5 @@
   "name": "demo-support",
   "version": "0.0.1",
   "description": "A demo support module which contains step definitions for use by its sibling app module",
-  "main": "index.js"
+  "main": "support.js"
 }

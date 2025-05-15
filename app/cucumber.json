@@ -1,6 +1,5 @@
 {
     "import": [
-        "../support/**/*.js"
     ],
     "paths": [
         "./features/**/*.feature"

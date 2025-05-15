@@ -2,7 +2,7 @@
   "name": "demo-app",
   "version": "0.0.1",
   "description": "A demo app which attempts to run cucumber tests using step definitions from an external path",
-  "main": "index.js",
+  "main": "app.js",
   "dependencies": {
     "@cucumber/cucumber": "^11.3.0"
   }
